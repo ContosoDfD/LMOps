@@ -19,3 +19,5 @@ jobs:
     with:
       scan-args: |-
         --skip-git=false
+        --recursive
+        ./
