@@ -9,4 +9,3 @@ transformers
 accelerate
 tensorboardX
 datasets
-requests==2.1.0
